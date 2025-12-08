@@ -3,9 +3,9 @@
 
   <project path="hardware/oplus" name="inferno0230/android_hardware_oplus" remote="github" />
   <project path="hardware/dolby" name="inferno0230/hardware_dolby" remote="github" />
-  <project path="vendor/extra" name="inferno0230/vendor_extra" revision="main" remote="github" />
+  <project path="vendor/extra" name="inferno0230/vendor_extra" revision="sixteen-qpr1" remote="github" />
   <project path="vendor/lineage-priv/keys" name="inferno0230/android_vendor_lineage-priv_keys" revision="sixteen-qpr1" remote="github" />
-
+  <project path="packages/apps/Updater" name="inferno0230/android_packages_apps_Updater" revision="sixteen-qpr1" remote="github" />
   <include name="local_manifests/devices/opsm8550.xml" />
   <include name="local_manifests/devices/opsm8650.xml" />
 
