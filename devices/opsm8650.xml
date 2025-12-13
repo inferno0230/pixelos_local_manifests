@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remote
+      name="ghlab"
+      fetch="https://codeberg.org/grepfox" />
+
+  <project
+      name="vendor_oneplus_lexus"
+      path="vendor/oneplus/lexus"
+      remote="ghlab"
+      revision="lineage-23.1" />
   <project path="device/oneplus/caihong" name="OnePlus-Pad-2-Development/android_device_oneplus_caihong" remote="github" />
+  <project path="device/oneplus/lexus" name="Venkatasaiee12/android_device_oneplus_lexus" revision="qpr1" remote="github" />
   <project path="device/oneplus/sm8650-common" name="OnePlus-Pad-2-Development/android_device_oneplus_sm8650-common" remote="github" />
   <project path="kernel/oneplus/sm8650" name="OnePlus-Pad-2-Development/android_kernel_oneplus_sm8650" remote="github" />
   <project path="kernel/oneplus/sm8650-devicetrees" name="OnePlus-Pad-2-Development/android_kernel_oneplus_sm8650-devicetrees" remote="github" />
