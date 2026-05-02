@@ -2,9 +2,9 @@
 <manifest>
   <project path="device/oneplus/caihong" name="OnePlus-Pad-2-Development/android_device_oneplus_caihong" remote="github" />
   <project path="device/oneplus/sm8650-common" name="OnePlus-Pad-2-Development/android_device_oneplus_sm8650-common" remote="github" />
-  <project path="kernel/oneplus/sm8650" name="OnePlus-Pad-2-Development/android_kernel_oneplus_sm8650" remote="github" />
-  <project path="kernel/oneplus/sm8650-devicetrees" name="OnePlus-Pad-2-Development/android_kernel_oneplus_sm8650-devicetrees" remote="github" />
-  <project path="kernel/oneplus/sm8650-modules" name="OnePlus-Pad-2-Development/android_kernel_oneplus_sm8650-modules" remote="github" />
+  <project path="kernel/oneplus/sm8650" name="LineageOS/android_kernel_oneplus_sm8650" remote="github" />
+  <project path="kernel/oneplus/sm8650-devicetrees" name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" remote="github" />
+  <project path="kernel/oneplus/sm8650-modules" name="LineageOS/android_kernel_oneplus_sm8650-modules" remote="github" />
   <project name="playground0230/vendor_oneplus_caihong" path="vendor/oneplus/caihong" remote="gitlab" />
   <project name="playground0230/vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" remote="gitlab" />
 </manifest>
